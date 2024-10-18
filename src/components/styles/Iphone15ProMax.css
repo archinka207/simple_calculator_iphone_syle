@@ -1,0 +1,25 @@
+.chelka {
+    background-color: black;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    height: 33px;
+    width: 150px;
+}
+
+.Iphone15ProMax {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(28, 28, 28);
+    border: 8px solid black;
+    border-radius: 50px;
+    height: 720px;
+    width: 360px;
+}
+
+.IphoneDisplay {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+

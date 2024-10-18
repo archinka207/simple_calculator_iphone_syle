@@ -1,0 +1,84 @@
+.MyButton {
+    border-radius: 100%;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(57, 57, 57);
+    border: none;
+    height: 74px;
+    width: 74px;
+}
+.Grey {
+    background-color: rgb(123, 123, 123);
+}
+.Orange {
+    background-color: rgb(231, 168, 8);
+}
+.MyButton:active {
+    background-color: rgb(107, 107, 107);
+}
+.Grey:active {
+    background-color: rgb(176, 176, 176);
+}
+.Orange:active {
+    background-color: rgb(244, 204, 104);
+}
+#C {
+    grid-area: C;
+}
+#br_left {
+    grid-area: br_left;
+}
+#br_right {
+    grid-area: br_right;
+}
+#myzero {
+    grid-area: myzero;
+}
+#one {
+    grid-area: one;
+}
+#two {
+    grid-area: two;
+}
+#three {
+    grid-area: three;
+}
+#four {
+    grid-area: four;
+}
+#five {
+    grid-area: five;
+}
+#six {
+    grid-area: six;
+}
+#seven {
+    grid-area: seven;
+}
+#eight {
+    grid-area: eight;
+}
+#nine {
+    grid-area: nine;
+}
+#plus {
+    grid-area: plus;
+}
+#minus {
+    grid-area: minus;
+}
+#division {
+    grid-area: division;
+}
+#multiplication {
+    grid-area: multiplication;
+}
+#equal {
+    grid-area: equal;
+}
+#percent {
+    grid-area: percent;
+}
+#comma {
+    grid-area: comma;
+}
